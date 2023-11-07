@@ -21,6 +21,8 @@ backdrop-filter: blur(4px) saturate(180%) !important;
 }
 
 body {
+    background-repeat: no-repeat;
+    background-size: 100% auto;
     background-image: url("https://github.com/KerimCan05/merkur-artadotheme/blob/main/images/merkur.png?raw=true")
 }
 
