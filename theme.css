@@ -34,7 +34,7 @@ backdrop-filter: blur(4px) saturate(180%) !important;
          border: 1px solid rgba(255, 150, 0, 1) !important;
         padding-top: 3px !important;
       font-weight: bolder;
-      color: #4c4c4c !important;
+      color: #FFFFFF !important;
 }
 
 #autocomplete-list {
@@ -67,7 +67,7 @@ backdrop-filter: blur(4px) saturate(180%) !important;
          border: 1px solid rgba(255, 150, 0, 1) !important;
         padding-top: 3px !important;
       font-weight: bolder;
-      color: #4c4c4c !important;
+      color: #FFFFFF !important;
 }
 
 .form-select {
@@ -78,11 +78,11 @@ backdrop-filter: blur(4px) saturate(180%) !important;
          border: 1px solid rgba(255, 150, 0, 1) !important;
         padding-top: 3px !important;
       font-weight: bolder;
-      color: #4c4c4c !important;
+      color: #FFFFFF !important;
 }
 
 .offcanvas #Label7, #Label8, #Label0, #Label9 {
-      color: #4c4c4c !important;
+      color: #FFFFFF !important;
 }
 
 .fontlu{
@@ -94,5 +94,5 @@ text-align:center !important;
 }
 
 #beta_text {
-      color: #4c4c4c !important;
+      color: #FFFFFF !important;
 }
