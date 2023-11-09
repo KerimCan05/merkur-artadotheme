@@ -19,11 +19,13 @@ backdrop-filter: blur(4px) saturate(180%) !important;
         padding-top: 7px !important;
       font-weight: bolder;
 }
-
 #bdy1 {
-    background-repeat: no-repeat;
-    background-size: 100% auto;
-    background-image: url("https://github.com/KerimCan05/merkur-artadotheme/blob/main/images/merkur.png?raw=true")
+    background: url("https://github.com/KerimCan05/merkur-artadotheme/blob/main/images/merkur.png?raw=true") no-repeat center fixed;
+     -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;
+}
+
+.card{
+    display: none
 }
 
 .menu {
