@@ -10,6 +10,10 @@ backdrop-filter: blur(4px) saturate(180%) !important;
 display: none !important;
 }
 
+.searchinput, .text-reset, .btn-close, .save {
+    color: black !important;
+}
+
 #Beta {
 backdrop-filter: blur(4px) saturate(180%) !important;
     -webkit-backdrop-filter: blur(4px) saturate(180%) !important;
