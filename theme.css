@@ -20,7 +20,7 @@ backdrop-filter: blur(4px) saturate(180%) !important;
       font-weight: bolder;
 }
 
-body.bdy1 {
+.bdy1 {
     background-repeat: no-repeat;
     background-size: 100% auto;
     background-image: url("https://github.com/KerimCan05/merkur-artadotheme/blob/main/images/merkur.png?raw=true")
