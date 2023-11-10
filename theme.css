@@ -1,13 +1,13 @@
 .searchbar {
-backdrop-filter: blur(4px) saturate(180%) !important;
+    backdrop-filter: blur(4px) saturate(180%) !important;
     -webkit-backdrop-filter: blur(4px) saturate(180%) !important;
-            background-color: rgba(255, 150, 0, 0.4) !important;
+    background-color: rgba(255, 150, 0, 0.4) !important;
     border-radius: 12px;
-         border: 1px solid rgba(255, 150, 0, 1) !important;
+    border: 1px solid rgba(255, 150, 0, 1) !important;
 }
 
 #ImageButton1 {
-display: none !important;
+    display: none !important;
 }
 
 .searchinput, .text-reset, .btn-close, .save {
@@ -15,17 +15,18 @@ display: none !important;
 }
 
 #Beta {
-backdrop-filter: blur(4px) saturate(180%) !important;
+    backdrop-filter: blur(4px) saturate(180%) !important;
     -webkit-backdrop-filter: blur(4px) saturate(180%) !important;
-            background-color: rgba(255, 150, 0, 0.4) !important;
+    background-color: rgba(255, 150, 0, 0.4) !important;
     border-radius: 12px;
-         border: 1px solid rgba(255, 150, 0, 1) !important;
-        padding-top: 7px !important;
-      font-weight: bolder;
+    border: 1px solid rgba(255, 150, 0, 1) !important;
+    padding-top: 7px !important;
+    font-weight: bolder;
 }
+
 #bdy1 {
     background: url("https://github.com/KerimCan05/merkur-artadotheme/blob/main/images/merkur.png?raw=true") no-repeat center fixed;
-     -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;
+    -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;
 }
 
 .card{
@@ -33,58 +34,58 @@ backdrop-filter: blur(4px) saturate(180%) !important;
 }
 
 .menu {
-backdrop-filter: blur(4px) saturate(180%) !important;
+    backdrop-filter: blur(4px) saturate(180%) !important;
     -webkit-backdrop-filter: blur(4px) saturate(180%) !important;
-            background-color: rgba(255, 150, 0, 0.4) !important;
+    background-color: rgba(255, 150, 0, 0.4) !important;
     border-radius: 12px;
-         border: 1px solid rgba(255, 150, 0, 1) !important;
-        padding-top: 3px !important;
-      font-weight: bolder;
-      color: #FFFFFF !important;
+    border: 1px solid rgba(255, 150, 0, 1) !important;
+    padding-top: 3px !important;
+    font-weight: bolder;
+    color: #FFFFFF !important;
 }
 
 #autocomplete-list {
-backdrop-filter: blur(4px) saturate(180%) !important;
+    backdrop-filter: blur(4px) saturate(180%) !important;
     -webkit-backdrop-filter: blur(4px) saturate(180%) !important;
-            background-color: rgba(255, 150, 0, 0.4) !important;
+    background-color: rgba(255, 150, 0, 0.4) !important;
     border-radius: 12px;
-         border: 1px solid rgba(255, 150, 0, 1) !important;
+    border: 1px solid rgba(255, 150, 0, 1) !important;
 }
 
 #autocomplete-list li:hover {
-background-color: none !important;
-border-right: 1px solid #5c5c5c !important;
-translation: 0.5s !important;
+    background-color: none !important;
+    border-right: 1px solid #5c5c5c !important;
+    translation: 0.5s !important;
 }
 
 .offcanvas {
-backdrop-filter: blur(4px) saturate(180%) !important;
+    backdrop-filter: blur(4px) saturate(180%) !important;
     -webkit-backdrop-filter: blur(4px) saturate(180%) !important;
-            background-color: rgba(255, 150, 0, 0.4) !important;
+    background-color: rgba(255, 150, 0, 0.4) !important;
     border-radius: 12px;
-         border: 1px solid rgba(255, 150, 0, 1) !important;
+    border: 1px solid rgba(255, 150, 0, 1) !important;
 }
 
 .offcanvas .btn-outline-success {
-backdrop-filter: blur(4px) saturate(180%) !important;
+    backdrop-filter: blur(4px) saturate(180%) !important;
     -webkit-backdrop-filter: blur(4px) saturate(180%) !important;
-            background-color: rgba(255, 150, 0, 0.4) !important;
+    background-color: rgba(255, 150, 0, 0.4) !important;
     border-radius: 12px;
-         border: 1px solid rgba(255, 150, 0, 1) !important;
-        padding-top: 3px !important;
-      font-weight: bolder;
-      color: #FFFFFF !important;
+    border: 1px solid rgba(255, 150, 0, 1) !important;
+    padding-top: 3px !important;
+    font-weight: bolder;
+    color: #FFFFFF !important;
 }
 
 .form-select {
-backdrop-filter: blur(4px) saturate(180%) !important;
+    backdrop-filter: blur(4px) saturate(180%) !important;
     -webkit-backdrop-filter: blur(4px) saturate(180%) !important;
-            background-color: rgba(255, 150, 0, 0.4) !important;
+    background-color: rgba(255, 150, 0, 0.4) !important;
     border-radius: 12px;
-         border: 1px solid rgba(255, 150, 0, 1) !important;
-        padding-top: 3px !important;
-      font-weight: bolder;
-      color: #FFFFFF !important;
+    border: 1px solid rgba(255, 150, 0, 1) !important;
+    padding-top: 3px !important;
+    font-weight: bolder;
+    color: #FFFFFF !important;
 }
 
 .offcanvas #Label7, #Label8, #Label0, #Label9 {
@@ -92,13 +93,13 @@ backdrop-filter: blur(4px) saturate(180%) !important;
 }
 
 .fontlu{
-margin-bottom: 13px !important;
+    margin-bottom: 13px !important;
 }
 
 #manifest {
-text-align:center !important;
+    text-align:center !important;
 }
 
 #beta_text {
-      color: #FFFFFF !important;
+    color: #FFFFFF !important;
 }
